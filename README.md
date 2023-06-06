@@ -12,5 +12,9 @@ After running slither on this project it was found that
 - the function 'store' is not in mixed case
 - the state vairable 'owner' should be made immutable
 
+## Fixes
+- fixed the function name to 'storeNumber'. 
+- made the state variable 'owner' immutable. `address immutable owner`
+
 ## Author 
 *Joshua Iluma
